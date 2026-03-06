@@ -4,6 +4,6 @@ WORKDIR /app
 
 RUN npm install -g openclaw
 
-EXPOSE 3000
+EXPOSE 8080
 
-CMD ["openclaw"]
+CMD ["openclaw", "gateway"]
