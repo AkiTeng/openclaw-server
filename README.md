@@ -1,2 +1,2 @@
-# openclaw-server
-OpenClaw deployment for Railway
+# CodexOnly-server
+
